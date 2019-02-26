@@ -1,0 +1,13 @@
+[15:45:48 181237] ConnectToMonitor() - NOT CONNECT, SOCKET - 1
+[15:47:06 458570] ConnectToMonitor() - NOT CONNECT, SOCKET - 1
+[16:08:34 310309] ConnectToMonitor() - NOT CONNECT, SOCKET - 1
+[16:08:34 897458] ConnectToServer() - NOT CONNECT, SOCKET - 2
+[16:08:34 897488] Connect Error, SOCKET - 2
+[16:08:34 898343] ConnectToServer() - NOT CONNECT, SOCKET - 1
+[16:08:34 898370] Connect Error, SOCKET - 1
+[16:08:34 898405] ConnectToServer() - NOT CONNECT, SOCKET - 3
+[16:08:34 898422] Connect Error, SOCKET - 3
+[16:08:34 902329] ConnectToServer() - NOT CONNECT, SOCKET - 2
+[16:08:34 902372] Connect Error, SOCKET - 2
+[16:08:34 903115] ConnectToServer() - NOT CONNECT, SOCKET - 1
+[16:08:34 903137] Connect Error, SOCKET - 1

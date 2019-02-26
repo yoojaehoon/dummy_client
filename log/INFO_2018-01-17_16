@@ -1,0 +1,8 @@
+[16:08:34 587811] Meta UUID : , P1 - c8543664-5017-4869-9ec2-662933e04026
+[16:08:34 587869] Meta Availability_zone, P1 - kr-pub-a
+[16:08:34 587883] Meta Hostname, P1 - pub065.novalocal
+[16:08:34 892400] myip : , P1 - 133.186.132.33
+[16:08:34 892425] MetadataURL : , P1 - http://169.254.169.254/openstack/latest/meta_data.json, P2 - 133.186.132.33
+[16:08:34 892548] Start Alive
+[16:08:34 892598] Start Alive
+[16:08:34 892633] Start Alive

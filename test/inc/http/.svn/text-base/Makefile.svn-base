@@ -1,0 +1,39 @@
+# ----------------------------------------
+# This Makefile is created by automake.tcl
+# ----------------------------------------
+
+CC = g++
+C  = gcc
+##CC = gcc 
+MAKEDEPEND = makedepend
+
+CFLAGS = -g -Wall -D_LINUX
+LDFLAGS = #-s #-static-libgcc
+
+INNOINC = ./inc
+INNOLIB = -L./lib -L/usr/lib64 -L/usr/lib64/mysql
+
+CDIRS = 
+CINCS = -I$(INNOINC) -I /usr/include/mysql/
+CLIBS = -L. $(INNOLIB) -linno-cen5-x86-64 -lpthread -lssl -lmysqlclient_r -Xlinker --start-group ./lib/libmicrohttpd.a ./lib/libjson.a -Xlinker --end-group
+
+CFILES = mainapp.cpp $(wildcard src/*.cpp)
+OFILES = $(CFILES:.cpp=.o)
+
+all: ClouditMSService
+
+ClouditMSService: $(OFILES)
+	$(CC) $(LDFLAGS) $(OFILES) -o ClouditMSService $(CLIBS)
+
+%.o: %.cpp
+	$(CC) -c $(CFLAGS) $(CINCS) $< -o $@
+%.o: %.c
+	$(C) -c $(CFLAGS) $(CINCS) $< -o $@
+
+depend : $(CFILES)
+	makedepend $(CINCS) $(CFILES)
+
+clean : 
+	rm -rf $(PGM) *.o *.so core *.bak tags
+
+# DO NOT DELETE

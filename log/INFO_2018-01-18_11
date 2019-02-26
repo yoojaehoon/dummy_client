@@ -1,0 +1,1674 @@
+[11:05:13 881313] Meta UUID : , P1 - c8543664-5017-4869-9ec2-662933e04026
+[11:05:13 881340] Meta Availability_zone, P1 - kr-pub-a
+[11:05:13 881353] Meta Hostname, P1 - pub065.novalocal
+[11:05:13 881364] VM Name, P1 - pubmon074
+[11:05:14 180271] myip : , P1 - 133.186.132.33
+[11:05:14 180294] MetadataURL : , P1 - http://169.254.169.254/openstack/latest/meta_data.json, P2 - 133.186.132.33
+[11:05:14 180409] Start Alive
+[11:05:14 180469] Start Alive
+[11:05:14 180520] Start Alive
+[11:07:47 618811] Meta UUID : , P1 - c8543664-5017-4869-9ec2-662933e04026
+[11:07:47 618861] Meta Availability_zone, P1 - kr-pub-a
+[11:07:47 618903] Meta Hostname, P1 - pub065.novalocal
+[11:07:47 618926] VM Name, P1 - pubmon074
+[11:07:47 890808] myip : , P1 - 133.186.132.33
+[11:07:47 890854] MetadataURL : , P1 - http://169.254.169.254/openstack/latest/meta_data.json, P2 - 133.186.132.33
+[11:07:47 891059] Start Alive
+[11:07:47 891133] Start Alive
+[11:07:47 891235] Start Alive
+[11:09:33 027244] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:33 031955] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:33 032125] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:33 039247] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:09:33 039296] CMD HEARTBEAT Response, SOCKET - 3, P1 - 0
+[11:09:33 043452] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:33 043564] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:33 046704] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:33 046835] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:33 051127] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:33 051762] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:09:33 055842] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:33 059706] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:34 056734] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:34 060673] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:34 064005] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:34 065844] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:34 069874] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:34 073070] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:09:34 073970] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:34 076481] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:34 083893] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:34 085841] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:35 069228] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:35 076541] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:35 087404] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:35 090525] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:35 095071] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:35 098092] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:35 099217] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:35 102556] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:35 104967] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:35 109883] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:36 080875] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:36 089167] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:36 108596] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:36 113657] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:36 116410] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:36 119792] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:36 121524] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:36 125874] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:36 127246] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:36 134348] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:37 093367] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:37 101609] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:37 130629] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:37 137887] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:37 137983] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:37 142584] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:37 146965] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:37 150863] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:37 151004] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:37 158562] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:38 105611] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:38 113732] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:38 155806] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:38 161836] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:38 164965] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:38 169190] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:38 169290] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:38 173656] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:38 177861] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:38 182290] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:39 118674] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:39 128123] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:39 181571] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:39 185603] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:39 189548] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:39 192944] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:39 193448] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:39 196815] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:39 200377] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:39 204361] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:40 131493] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:40 139108] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:40 204566] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:40 208360] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:40 213035] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:40 216951] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:40 217629] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:40 221910] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:40 225052] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:40 231008] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:41 144512] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:41 153835] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:41 229750] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:41 234499] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:41 238859] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:41 242908] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:41 243045] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:41 245986] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:41 253217] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:41 254964] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:42 158343] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:42 166876] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:42 257559] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:42 258320] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:42 267109] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:42 270670] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:42 270937] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:42 274449] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:42 278887] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:42 282843] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:43 170283] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:43 177674] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:43 282813] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:43 287042] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:43 290763] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:43 294103] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:43 295423] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:43 298571] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:43 301423] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:43 305684] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:44 182071] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:44 190576] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:44 305805] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:44 309832] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:44 313198] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:44 317949] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:44 318071] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:44 321295] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:44 326862] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:44 329940] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:45 194133] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:45 201447] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:45 331744] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:45 334420] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:45 340718] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:45 343746] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:45 344437] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:45 348885] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:45 350558] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:45 357353] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:46 205242] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:46 213419] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:46 354711] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:46 361925] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:46 363348] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:46 367497] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:46 370449] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:46 374394] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:46 376102] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:46 382418] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:47 216843] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:47 224094] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:47 380561] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:47 386002] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:47 389610] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:47 394248] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:47 394443] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:47 397987] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:47 403140] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:47 406886] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:48 227948] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:48 235753] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:48 406572] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:48 411272] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:48 414549] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:48 417660] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:48 419902] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:48 423486] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:48 425259] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:48 431623] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:49 239109] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:49 246687] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:49 429408] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:49 435523] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:49 437857] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:49 441026] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:49 443639] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:49 446789] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:49 448476] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:49 453926] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:50 250980] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:50 259439] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:50 451887] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:50 458353] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:50 459503] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:09:50 462715] ConnectToServer() SUCCESS, SOCKET - 1
+[11:09:50 467081] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:50 470780] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:09:50 470978] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:50 478967] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:50 979301] ConnectToMonitor() SUCCESS, SOCKET - 1
+[11:09:50 983274] Return REQ_PERF_REPORT, SOCKET - 1, P1 - 0
+[11:09:51 263714] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:51 272309] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:51 475275] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:51 483080] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:51 483949] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:51 487493] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:51 491395] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:09:51 495493] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:51 495893] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:51 503720] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:09:52 277145] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:52 286093] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:52 500037] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:52 508467] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:52 508626] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:52 512861] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:52 517869] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:09:52 521427] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:52 522641] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:52 531612] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:09:53 290343] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:53 303766] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:53 525872] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:53 534574] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:53 536085] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:53 537754] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:53 544875] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:09:53 548157] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:53 549355] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:53 555207] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:09:54 308643] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:54 318001] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:54 553541] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:54 559156] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:54 561999] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:54 566200] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:54 567058] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:09:54 570453] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:54 574384] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:54 577851] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:09:55 322559] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:55 335852] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:55 578025] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:55 582010] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:55 586004] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:55 590093] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:55 590218] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:09:55 593434] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:55 598339] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:55 601940] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:09:56 339477] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:56 347056] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:56 602592] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:56 606413] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:56 611118] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:56 615048] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:56 615123] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:09:56 618764] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:56 623355] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:56 627685] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:09:57 351549] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:57 360378] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:57 626919] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:57 631834] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:57 634927] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:57 639099] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:57 639916] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:09:57 643272] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:57 647533] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:57 651386] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:09:58 365245] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:58 374161] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:58 651912] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:58 656130] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:58 660731] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:58 664064] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:58 664985] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:09:58 669578] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:58 671705] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:58 678125] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:09:59 377525] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:59 384967] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:59 675455] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:59 682562] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:59 683452] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:09:59 687009] ConnectToServer() SUCCESS, SOCKET - 2
+[11:09:59 691104] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:09:59 695020] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:09:59 695111] ConnectToServer() SUCCESS, SOCKET - 3
+[11:09:59 703303] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:00 388909] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:00 397221] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:00 699322] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:00 706882] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:00 707811] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:00 712049] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:00 714588] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:00 718084] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:00 720444] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:00 725449] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:01 401758] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:01 410815] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:01 724014] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:01 729397] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:01 731962] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:01 736435] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:01 737718] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:01 742849] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:01 746364] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:01 751916] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:02 415033] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:02 428459] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:02 750164] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:02 756068] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:02 758284] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:02 762754] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:02 764448] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:02 767840] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:02 771526] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:02 775751] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:03 432840] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:03 441373] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:03 774662] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:03 779115] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:03 782016] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:03 785287] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:03 786667] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:03 790196] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:03 792914] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:03 797654] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:04 446124] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:04 455340] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:04 796710] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:04 801773] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:04 804727] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:04 808797] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:04 810162] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:04 814902] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:04 817113] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:04 824545] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:05 458894] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:05 469122] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:05 821073] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:05 827691] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:05 829346] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:05 833811] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:05 834947] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:05 838569] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:05 843125] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:05 848085] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:06 472645] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:06 480287] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:06 848209] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:06 851470] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:06 857570] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:06 861052] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:06 861101] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:06 865100] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:06 868774] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:06 873109] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:07 484504] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:07 492752] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:07 872845] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:07 877480] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:07 881038] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:07 884436] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:07 885778] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:07 890350] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:07 891969] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:07 898806] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:08 496205] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:08 503598] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:08 895918] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:08 902646] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:08 904290] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:08 908373] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:08 910567] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:08 915361] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:08 916862] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:08 925105] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:09 506955] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:09 514389] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:09 921128] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:09 928939] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:09 929772] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:09 933441] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:09 936910] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:09 940291] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:09 941916] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:09 947557] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:10 518810] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:10 527688] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:10 946725] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:10 951728] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:10 955788] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:10 960072] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:10 960169] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:10 963336] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:10 968990] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:10 972959] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:11 530893] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:11 538272] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:11 972418] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:11 976921] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:11 980125] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:11 984839] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:11 984909] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:11 988013] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:11 993884] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:11 996904] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:12 542606] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:12 551009] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:12 997272] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:13 000753] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:13 004989] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:13 008341] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:13 009495] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:13 013523] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:13 016279] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:13 021591] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:13 554910] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:13 563151] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:14 021367] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:14 025328] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:14 030146] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:14 033800] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:14 034520] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:14 038423] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:14 042273] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:14 046509] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:14 568104] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:14 577347] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:15 046588] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:15 051026] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:15 055181] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:15 059292] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:15 059693] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:15 062919] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:15 067879] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:15 071623] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:15 581577] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:15 589948] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:16 074351] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:16 075255] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:16 084711] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:16 087454] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:16 088419] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:16 092939] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:16 097420] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:16 101617] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:16 593563] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:16 601406] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:17 100697] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:17 106250] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:17 108226] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:17 112699] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:17 114966] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:17 118418] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:17 121560] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:17 127433] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:17 605764] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:17 614320] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:18 126521] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:18 131009] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:18 135555] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:18 138678] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:18 139272] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:18 142466] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:18 145972] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:18 149778] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:18 618016] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:18 625803] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:19 150352] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:19 153758] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:19 158970] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:19 162994] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:19 163309] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:19 167774] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:19 172043] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:19 176908] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:19 630548] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:19 640638] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:20 176896] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:20 181313] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:20 186118] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:20 189120] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:20 190038] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:20 193875] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:20 196734] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:20 202867] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:20 644519] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:20 652454] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:21 200817] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:21 207248] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:21 208984] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:21 212333] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:21 215631] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:21 218749] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:21 219907] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:21 225956] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:21 656007] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:21 663556] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:22 223447] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:22 230052] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:22 231031] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:22 235287] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:22 238425] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:22 242843] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:22 243605] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:22 251541] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:22 668462] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:22 677474] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:23 247890] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:23 256123] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:23 256274] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:23 260501] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:23 265022] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:23 268703] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:23 268840] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:23 276222] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:23 682388] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:23 691527] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:24 273209] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:24 280572] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:24 281854] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:24 285010] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:24 289029] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:24 292464] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:24 292978] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:24 299840] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:24 694878] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:24 702265] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:25 296591] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:25 304205] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:25 304325] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:25 308779] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:25 312739] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:25 316159] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:25 317772] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:25 323591] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:25 706038] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:25 713958] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:26 322099] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:26 327427] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:26 330730] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:26 334289] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:26 335349] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:26 339668] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:26 342165] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:26 347692] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:26 718929] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:26 727762] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:27 346634] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:27 351986] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:27 355289] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:27 358453] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:27 360490] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:27 364556] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:27 365901] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:27 372746] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:27 730955] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:27 738177] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:28 370318] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:28 376001] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:28 378916] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:28 382954] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:28 383510] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:28 386804] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:28 391499] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:28 395531] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:28 741957] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:28 749846] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:29 395512] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:29 399174] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:29 403790] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:29 407846] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:29 407869] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:29 410937] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:29 415935] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:29 419747] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:29 753244] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:29 760762] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:30 420356] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:30 423279] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:30 428849] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:30 433050] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:30 433592] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:30 436417] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:30 444288] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:30 445831] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:30 763932] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:30 771195] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:31 449145] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:31 449980] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:31 458317] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:31 461738] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:31 461791] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:31 464885] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:31 469791] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:31 473529] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:31 775057] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:31 782880] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:32 474082] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:32 477737] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:32 482643] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:32 485909] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:32 486524] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:32 489980] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:32 493470] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:32 497527] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:32 786440] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:32 794041] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:33 498106] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:33 500685] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:33 507039] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:33 510474] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:33 510674] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:33 514410] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:33 518202] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:33 522258] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:33 797845] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:33 805130] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:34 522612] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:34 526995] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:34 531386] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:34 534698] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:34 536066] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:34 540537] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:34 542002] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:34 548870] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:34 808862] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:34 816468] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:35 546537] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:35 552602] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:35 555187] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:35 559568] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:35 560611] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:35 564731] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:35 567955] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:35 572875] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:35 820525] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:35 829860] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:36 573005] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:36 577335] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:36 582302] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:36 585346] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:36 585690] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:36 589792] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:36 592347] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:36 597786] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:36 833354] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:36 840884] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:37 595777] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:37 601122] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:37 603448] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:37 606556] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:37 608697] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:37 612124] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:37 613849] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:37 619278] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:37 844473] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:37 852331] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:38 618107] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:38 624192] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:38 626532] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:38 629558] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:38 633028] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:38 636474] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:38 637237] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:38 645302] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:38 856614] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:38 864878] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:39 639978] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:39 647755] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:39 648620] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:39 651325] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:39 655944] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:39 659935] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:39 660423] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:39 667950] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:39 868670] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:39 876605] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:40 664749] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:40 671370] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:40 673345] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:40 676542] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:40 678749] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:40 682107] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:40 683765] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:40 689353] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:40 880312] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:40 888109] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:41 687675] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:41 693065] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:41 695779] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:41 700028] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:41 700917] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:41 704129] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:41 708318] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:41 712828] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:41 891793] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:41 900531] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:42 711486] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:42 717660] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:42 718931] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:42 722472] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:42 726632] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:42 730354] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:42 730870] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:42 739075] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:42 904420] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:42 912435] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:43 734781] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:43 743481] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:43 743609] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:43 746830] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:43 752344] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:43 757834] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:43 758344] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:43 766104] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:43 915982] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:43 928053] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:44 762307] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:44 770665] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:44 770746] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:44 775332] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:44 779543] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:44 783877] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:44 784006] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:44 792485] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:44 934166] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:44 942005] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:45 788935] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:45 795968] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:45 798325] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:45 802907] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:45 803523] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:45 806707] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:45 811522] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:45 814888] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:45 945278] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:45 956178] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:46 816209] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:46 819533] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:46 825073] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:46 828912] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:46 828967] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:46 832564] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:46 836894] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:46 840632] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:46 959662] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:46 966984] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:47 841440] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:47 844140] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:47 850425] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:47 854140] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:47 854692] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:47 857844] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:47 863172] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:47 867979] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:47 971333] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:47 980237] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:48 867812] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:48 871907] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:48 876976] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:48 880896] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:48 881137] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:48 884734] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:48 888347] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:48 892688] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:48 984677] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:48 993055] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:49 892676] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:49 895863] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:49 901230] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:49 904778] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:49 905169] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:49 910088] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:49 912606] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:49 918632] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:49 996474] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:50 005793] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:50 917276] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:50 922127] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:50 926380] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:50 929621] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:50 930095] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:50 934196] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:50 936925] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:50 942051] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:51 010467] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:51 019607] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:51 941262] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:51 945137] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:51 950045] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:10:51 953524] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:51 953579] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:51 957645] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:51 960985] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:51 965410] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:52 023354] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:52 031330] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:52 964845] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:52 970275] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:52 972991] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:10:52 975922] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:52 979206] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:52 982632] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:52 982769] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:52 990837] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:53 036211] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:53 045256] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:53 986155] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:53 993779] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:10:53 995697] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:53 997308] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:54 004882] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:54 008451] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:54 008721] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:54 016946] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:54 050437] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:54 059249] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:55 012523] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:55 020791] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:55 020832] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:10:55 025369] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:55 028947] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:55 033320] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:55 033904] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:55 041657] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:55 062927] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:55 070986] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:56 038270] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:56 045969] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:56 046930] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:10:56 051393] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:56 054483] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:56 058634] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:56 059301] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:56 067010] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:56 075655] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:56 084390] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:57 062966] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:57 070568] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:10:57 070638] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:57 074867] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:57 078370] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:57 081536] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:57 083192] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:57 087796] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:57 088526] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:57 095098] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:58 087389] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:58 091787] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:58 095989] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:10:58 099394] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:58 100144] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:58 100642] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:58 104334] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:58 109334] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:10:58 111652] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:58 115242] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:10:59 112588] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:59 115772] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:59 119485] ConnectToServer() SUCCESS, SOCKET - 3
+[11:10:59 120019] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:59 124625] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:10:59 128012] ConnectToServer() SUCCESS, SOCKET - 1
+[11:10:59 128423] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:10:59 132770] ConnectToServer() SUCCESS, SOCKET - 2
+[11:10:59 135293] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:10:59 140836] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:00 123598] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:00 131049] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:00 140269] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:00 145236] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:00 149618] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:00 153839] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:00 154341] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:00 157642] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:00 163637] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:00 167301] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:01 134350] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:01 143793] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:01 167199] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:01 170622] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:01 175131] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:01 178410] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:01 178739] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:01 183293] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:01 185795] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:01 192311] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:02 149212] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:02 157513] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:02 190463] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:02 196533] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:02 199403] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:02 203649] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:02 204862] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:02 208301] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:02 211874] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:02 216086] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:03 161912] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:03 170708] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:03 216101] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:03 221110] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:03 225669] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:03 229300] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:03 229632] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:03 233860] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:03 236994] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:03 242416] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:04 175382] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:04 183972] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:04 242031] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:04 247285] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:04 251097] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:04 254462] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:04 256139] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:04 260294] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:04 262105] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:04 268436] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:05 188771] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:05 197513] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:05 265662] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:05 272839] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:05 273368] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:05 276403] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:05 281290] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:05 284794] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:05 285809] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:05 294334] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:06 203037] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:06 211961] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:06 289816] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:06 297717] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:06 299140] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:06 303906] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:06 305011] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:06 309248] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:06 312860] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:06 318663] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:07 215944] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:07 224039] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:07 316472] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:07 322868] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:07 324089] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:07 327733] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:07 331203] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:07 335685] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:07 335877] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:07 344528] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:08 227839] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:08 236834] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:08 339249] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:08 347075] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:08 348443] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:08 350704] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:08 356362] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:08 359429] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:08 359766] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:08 367875] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:09 240780] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:09 248858] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:09 364301] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:09 372722] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:09 372973] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:09 376508] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:09 381726] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:09 385665] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:09 385795] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:09 394253] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:10 252028] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:10 259389] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:10 390260] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:10 398434] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:10 399364] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:10 402581] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:10 407042] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:10 411211] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:10 411381] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:10 419636] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:11 263981] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:11 272627] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:11 415731] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:11 424134] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:11 424227] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:11 428742] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:11 432787] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:11 437371] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:11 437488] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:11 446537] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:12 277095] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:12 285866] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:12 440516] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:12 447962] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:12 454109] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:12 454427] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:12 463863] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:12 465479] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:12 466948] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:12 474218] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:13 289627] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:13 297482] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:13 468979] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:13 476664] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:13 478774] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:13 480427] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:13 487306] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:13 490690] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:13 491473] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:13 497924] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:14 301618] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:14 311500] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:14 495510] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:14 502450] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:14 503624] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:14 507021] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:14 511176] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:14 514692] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:14 515046] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:14 522582] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:15 315321] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:15 323418] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:15 519479] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:15 526793] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:15 528123] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:15 532808] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:15 535248] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:15 538587] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:15 541495] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:15 545939] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:16 327807] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:16 336633] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:16 545869] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:16 550080] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:16 554554] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:16 557868] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:16 558622] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:16 561806] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:16 565021] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:16 568846] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:17 341297] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:17 349770] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:17 568914] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:17 572223] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:17 576977] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:17 580472] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:17 581474] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:17 584363] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:17 589970] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:17 593198] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:18 353113] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:18 364950] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:18 593393] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:18 597211] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:18 601050] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:18 605218] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:18 605504] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:18 608732] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:18 613764] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:18 616969] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:19 368693] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:19 376331] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:19 618863] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:19 621328] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:19 627903] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:19 631169] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:19 631630] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:19 636015] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:19 638327] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:19 644612] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:20 380256] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:20 388389] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:20 642299] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:20 648122] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:20 650529] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:20 655191] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:20 655696] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:20 658749] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:20 664052] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:20 667033] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:21 393037] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:21 401730] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:21 667812] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:21 671734] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:21 675909] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:21 679898] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:21 679974] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:21 683114] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:21 688545] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:21 692479] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:22 405299] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:22 414526] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:22 692159] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:22 697170] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:22 700004] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:22 703223] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:22 706198] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:22 710541] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:22 714804] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:22 718799] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:23 417983] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:23 425466] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:23 718480] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:23 722757] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:23 726403] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:23 729598] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:23 730892] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:23 734105] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:23 736868] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:23 741055] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:24 429600] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:24 437971] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:24 740991] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:24 745531] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:24 749488] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:24 752841] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:24 754232] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:24 758836] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:24 760150] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:24 767134] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:25 442376] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:25 450970] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:25 764627] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:25 771904] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:25 773291] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:25 777112] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:25 780693] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:25 784081] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:25 784807] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:25 791515] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:26 454756] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:26 462535] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:26 788123] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:26 795475] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:26 795646] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:26 799850] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:26 803558] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:26 807088] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:26 808279] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:26 814670] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:27 467076] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:27 475682] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:27 813011] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:27 819150] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:27 821771] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:27 825049] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:27 827887] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:27 832370] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:27 832607] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:27 840711] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:28 479898] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:28 488897] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:28 836796] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:28 845274] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:28 845356] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:28 849433] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:28 853935] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:28 857544] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:28 857620] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:28 865247] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:29 493574] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:29 502421] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:29 860795] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:29 868217] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:29 868465] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:29 872433] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:29 875701] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:29 879764] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:29 880689] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:29 887742] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:30 506909] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:30 515491] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:30 884452] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:30 892095] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:30 892243] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:30 896792] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:30 900467] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:30 903785] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:30 905370] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:30 911026] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:31 519437] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:31 527007] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:31 908902] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:31 914799] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:31 916599] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:31 920598] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:31 922606] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:31 926800] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:31 928859] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:31 934966] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:32 530793] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:32 538688] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:32 933358] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:32 938362] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:32 942152] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:32 946142] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:32 946193] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:32 949536] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:32 953987] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:32 958128] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:33 544568] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:33 553014] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:33 958575] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:33 962033] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:33 967409] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:33 971157] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:33 971458] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:33 976033] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:33 979135] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:33 984495] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:34 557838] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:34 566769] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:34 983122] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:34 987960] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:34 990968] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:34 994809] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:34 995688] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:34 999524] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:35 002804] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:35 007581] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:35 570987] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:35 579671] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:36 007097] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:36 012523] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:36 015663] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:36 018951] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:36 021573] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:36 025052] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:36 026530] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:36 033045] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:36 584076] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:36 592515] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:37 030973] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:37 037364] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:37 039624] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:37 042847] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:37 045408] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:37 048945] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:37 050291] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:37 056623] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:37 596601] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:37 604593] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:38 054978] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:38 061019] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:38 063886] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:38 067279] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:38 069595] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:38 073018] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:38 075480] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:38 080927] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:38 609171] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:38 618538] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:39 080355] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:39 084940] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:39 089334] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:39 093688] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:39 093743] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:39 098232] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:39 102491] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:39 106935] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:39 622886] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:39 631846] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:40 107102] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:40 110280] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:40 115851] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:40 119709] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:40 119862] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:40 124234] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:40 128508] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:40 132907] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:40 635841] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:40 644072] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:41 132913] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:41 136606] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:41 141480] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:41 145303] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:41 145805] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:41 150042] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:41 153256] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:41 158201] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:41 647344] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:41 654506] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:42 157713] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:42 161482] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:42 166479] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:42 170235] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:42 170531] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:42 173670] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:42 178727] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:42 182555] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:42 658446] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:42 666610] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:43 183159] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:43 186409] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:43 191888] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:43 195153] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:43 196130] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:43 200582] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:43 202187] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:43 208968] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:43 671215] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:43 680182] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:44 206835] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:44 213806] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:44 215814] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:44 219712] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:44 222918] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:44 227378] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:44 230413] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:44 235877] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:44 684639] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:44 692852] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:45 235100] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:45 239967] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:45 243936] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:45 247438] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:45 248120] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:45 252217] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:45 255081] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:45 259768] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:45 696642] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:45 704570] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:46 259485] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:46 263680] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:46 268096] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:46 272202] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:46 272343] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:46 275438] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:46 280699] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:46 284830] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:46 707917] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:46 715429] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:47 283834] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:47 288108] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:47 291484] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:47 295083] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:47 295484] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:47 298743] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:47 302864] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:47 306091] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:47 718781] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:47 726058] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:48 307790] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:48 310250] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:48 316631] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:48 320256] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:48 320306] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:48 323699] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:48 328307] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:48 332006] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:48 730783] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:48 739673] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:49 332549] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:49 335551] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:49 340964] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:49 345167] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:49 345305] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:49 348359] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:49 355569] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:49 357387] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:49 743364] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:49 751174] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:50 358884] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:50 362288] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:50 366498] CPacket::ReceivePacket, SOCKET - 1, P1 - 3
+[11:11:50 370880] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:50 371317] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:50 375628] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:50 380123] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:50 384197] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:50 755377] ConnectToServer() SUCCESS, SOCKET - 1
+[11:11:50 763791] CPacket::ReceivePacket, SOCKET - 1, P1 - 4
+[11:11:50 988001] ConnectToMonitor() SUCCESS, SOCKET - 1
+[11:11:50 992396] Return REQ_PERF_REPORT, SOCKET - 1, P1 - 0
+[11:11:51 383942] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:51 387465] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:51 391879] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:51 395689] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:11:51 395909] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:51 398951] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:51 404265] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:51 408187] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:11:51 768562] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:51 777436] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:52 408170] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:52 412566] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:52 416387] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:52 420592] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:52 421038] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:11:52 424347] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:52 428866] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:52 432736] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:11:52 781080] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:52 788553] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:53 432399] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:53 436218] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:53 440308] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:53 444391] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:11:53 444893] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:53 449453] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:53 454175] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:53 457905] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:11:53 792408] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:53 800715] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:54 458007] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:54 462143] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:54 466080] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:54 470326] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:54 470465] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:11:54 473518] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:54 481070] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:54 482908] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:11:54 803859] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:54 811029] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:55 484709] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:55 486679] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:55 492409] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:55 497374] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:55 497553] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:11:55 501755] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:55 506115] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:55 510231] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:11:55 815645] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:55 824431] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:56 511030] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:56 513381] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:56 519356] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:56 522776] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:56 523394] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:11:56 528215] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:56 530211] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:56 536540] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:11:56 828347] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:56 837859] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:57 533629] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:57 539863] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:57 541315] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:57 545267] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:57 547160] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:11:57 551469] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:57 556635] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:57 560653] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:11:57 843373] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:57 851059] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:58 560013] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:58 565507] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:58 567690] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:11:58 572270] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:58 574520] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:11:58 578211] ConnectToServer() SUCCESS, SOCKET - 3
+[11:11:58 581144] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:11:58 585452] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:11:58 855476] ConnectToServer() SUCCESS, SOCKET - 2
+[11:11:58 863943] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:46 991016] ConnectToMonitor() SUCCESS, SOCKET - 1
+[11:14:46 995855] SERVER_RESTART REPORT SUCCESS, SOCKET - 1, P1 - 0
+[11:14:47 406714] Meta UUID : , P1 - c8543664-5017-4869-9ec2-662933e04026
+[11:14:47 406776] Meta Availability_zone, P1 - kr-pub-a
+[11:14:47 406809] Meta Hostname, P1 - pub065.novalocal
+[11:14:47 406837] VM Name, P1 - pubmon074
+[11:14:47 707859] myip : , P1 - 133.186.132.33
+[11:14:47 707883] MetadataURL : , P1 - http://169.254.169.254/openstack/latest/meta_data.json, P2 - 133.186.132.33
+[11:14:47 707982] Start Alive
+[11:14:47 708025] Start Alive
+[11:14:47 708061] Start Alive
+[11:14:47 711274] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:47 711389] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:47 712196] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:47 720148] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:47 724056] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:47 724357] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:47 728258] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:47 728549] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:47 732302] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:47 732952] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:47 736026] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:14:47 741360] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:48 735651] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:48 740717] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:48 743319] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:48 745734] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:48 747316] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:48 749443] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:48 753701] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:48 754407] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:48 758060] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:48 758619] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:48 761862] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:48 766884] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:14:49 761732] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:49 766499] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:49 769507] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:49 770610] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:49 773326] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:49 775327] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:49 779094] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:49 779211] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:49 782634] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:49 783775] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:49 788085] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:49 791730] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:14:50 788256] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:50 791848] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:50 795992] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:50 796925] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:50 800709] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:50 801143] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:50 804707] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:50 805039] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:50 808838] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:50 811263] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:50 817714] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:50 819577] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:14:51 814749] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:51 822334] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:51 822415] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:51 824500] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:51 826884] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:51 831124] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:51 834141] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:51 835229] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:51 839565] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:51 839662] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:51 843085] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:51 848345] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:14:52 843090] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:52 846582] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:52 851263] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:52 853195] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:52 854378] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:52 855490] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:52 858609] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:52 862468] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:52 865663] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:52 868040] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:52 869725] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:52 873242] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:14:53 872658] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:53 874426] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:53 877540] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:53 881532] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:53 884553] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:53 885851] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:53 889528] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:53 890256] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:53 892783] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:53 893834] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:53 898527] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:53 902077] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:14:54 896833] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:54 903414] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:54 905025] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:54 905678] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:54 909485] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:54 912296] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:54 916224] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:54 916900] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:54 920015] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:54 921140] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:54 925337] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:54 929253] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:14:55 926020] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:55 929230] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:55 933626] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:55 935094] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:55 939140] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:55 939578] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:55 942635] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:55 942797] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:55 946142] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:55 948562] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:55 954368] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:55 955883] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:14:56 952954] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:56 958905] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:56 960535] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:56 961470] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:56 964705] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:56 967495] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:56 971449] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:56 971486] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:56 975506] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:56 975679] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:56 980854] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:56 983653] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:14:57 980056] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:57 984007] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:57 988233] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:57 988748] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:57 992661] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:57 992937] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:57 996939] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:57 996998] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:58 000181] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:58 001291] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:58 005763] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:58 009548] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:14:59 005852] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:59 010252] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:59 013441] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:14:59 013638] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:59 017408] ConnectToServer() SUCCESS, SOCKET - 2
+[11:14:59 019053] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:14:59 022599] ConnectToServer() SUCCESS, SOCKET - 3
+[11:14:59 022873] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:14:59 026163] ConnectToServer() SUCCESS, SOCKET - 4
+[11:14:59 029610] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:14:59 031669] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:14:59 034900] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:15:00 033903] ConnectToServer() SUCCESS, SOCKET - 2
+[11:15:00 035058] ConnectToServer() SUCCESS, SOCKET - 3
+[11:15:00 038889] ConnectToServer() SUCCESS, SOCKET - 4
+[11:15:00 045366] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:15:00 049715] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:15:00 049931] ConnectToServer() SUCCESS, SOCKET - 2
+[11:15:00 053793] ConnectToServer() SUCCESS, SOCKET - 3
+[11:15:00 054073] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:15:00 057186] ConnectToServer() SUCCESS, SOCKET - 4
+[11:15:00 058269] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:15:00 063003] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:15:00 067074] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:15:01 062371] ConnectToServer() SUCCESS, SOCKET - 2
+[11:15:01 066793] ConnectToServer() SUCCESS, SOCKET - 3
+[11:15:01 071758] ConnectToServer() SUCCESS, SOCKET - 4
+[11:15:01 077216] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:15:01 080932] ConnectToServer() SUCCESS, SOCKET - 2
+[11:15:01 081671] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:15:01 085375] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:15:01 086281] ConnectToServer() SUCCESS, SOCKET - 3
+[11:15:01 088526] ConnectToServer() SUCCESS, SOCKET - 4
+[11:15:01 089550] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:15:01 096837] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:15:01 098191] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:15:02 094129] ConnectToServer() SUCCESS, SOCKET - 2
+[11:15:02 101622] ConnectToServer() SUCCESS, SOCKET - 3
+[11:15:02 101850] ConnectToServer() SUCCESS, SOCKET - 4
+[11:15:02 103058] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:15:02 107721] ConnectToServer() SUCCESS, SOCKET - 2
+[11:15:02 110065] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:15:02 114165] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:15:02 114300] ConnectToServer() SUCCESS, SOCKET - 4
+[11:15:02 118154] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:15:02 118291] ConnectToServer() SUCCESS, SOCKET - 3
+[11:15:02 123851] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:15:02 128686] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:15:03 122357] ConnectToServer() SUCCESS, SOCKET - 2
+[11:15:03 127275] ConnectToServer() SUCCESS, SOCKET - 3
+[11:15:03 130373] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:15:03 132086] ConnectToServer() SUCCESS, SOCKET - 4
+[11:15:03 134417] ConnectToServer() SUCCESS, SOCKET - 2
+[11:15:03 134741] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:15:03 139010] ConnectToServer() SUCCESS, SOCKET - 3
+[11:15:03 139638] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:15:03 143383] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:15:03 144124] ConnectToServer() SUCCESS, SOCKET - 4
+[11:15:03 147342] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:15:03 153168] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
+[11:15:04 147376] ConnectToServer() SUCCESS, SOCKET - 2
+[11:15:04 150930] ConnectToServer() SUCCESS, SOCKET - 3
+[11:15:04 155706] CPacket::ReceivePacket, SOCKET - 2, P1 - 3
+[11:15:04 156595] ConnectToServer() SUCCESS, SOCKET - 4
+[11:15:04 159452] CPacket::ReceivePacket, SOCKET - 3, P1 - 3
+[11:15:04 159915] ConnectToServer() SUCCESS, SOCKET - 2
+[11:15:04 163531] ConnectToServer() SUCCESS, SOCKET - 3
+[11:15:04 164110] CPacket::ReceivePacket, SOCKET - 4, P1 - 3
+[11:15:04 167623] ConnectToServer() SUCCESS, SOCKET - 4
+[11:15:04 168301] CPacket::ReceivePacket, SOCKET - 2, P1 - 4
+[11:15:04 171683] CPacket::ReceivePacket, SOCKET - 3, P1 - 4
+[11:15:04 175961] CPacket::ReceivePacket, SOCKET - 4, P1 - 4
