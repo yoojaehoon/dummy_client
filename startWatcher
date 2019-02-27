@@ -1,0 +1,7 @@
+#!/bin/bash
+
+BASEDIR=/opt/pub_watcher/
+
+killall -9 inno_client
+sleep 3
+$BASEDIR/inno_client &
