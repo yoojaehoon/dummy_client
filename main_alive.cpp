@@ -167,7 +167,7 @@ int command_metadata_report(struct ConnInfo* conninfo)
     else{
         sprintf(external_ip,"none");
     }
-
+   
     if( !send_packet.WriteString((char*)conninfo->uuid))
     {
         CloseToServer(sock);

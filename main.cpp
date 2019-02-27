@@ -198,6 +198,9 @@ int main(int argc, char *argv[])
     }
 
     CMiscUtil::WriteLog("MetadataURL : ", -1, 4, url.c_str(), res.body.c_str());
+    
+
+    conninfo.external_ip = "none";
 
     /*struct ifaddrs *ifap, *ifa;
     struct sockaddr_in *sa;
@@ -226,8 +229,8 @@ int main(int argc, char *argv[])
     CMiscUtil::WriteLog("Client ip ", -1, 3, ipbuffer);
     conninfo.client_ip = ipbuffer;
     */
-    //////////
-    
+    //////////    
+
     result = pthread_create(&c_thread, &thread_attr, clean_thread, NULL);
     if (result != 0)
     {
